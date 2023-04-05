@@ -1,0 +1,116 @@
+.zero {
+  width: 100%;
+  height: 1.7rem;
+  
+  background-color: aliceblue;
+}
+.five {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(58, 49, 136);
+}
+.ten {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(6, 93, 169);
+}
+.fifteen {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(41, 105, 160);
+}
+.twenty {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(36, 102, 144);
+}
+.twenty-five {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(45, 113, 159);
+}
+.thirty {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(53, 111, 139);
+}
+.thirty-five {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(33, 155, 149);
+}
+.forty {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(52, 160, 137);
+}
+.forty-five {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(38, 137, 96);
+}
+.fifty {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(31, 181, 94);
+}
+.fifty-five {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(80, 156, 42);
+}
+.sixty {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(92, 150, 59);
+}
+.sixty-five {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(133, 165, 44);
+}
+.seventy {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(174, 174, 57);
+}
+.seventy-five {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(176, 168, 50);
+}
+.eighty {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(166, 132, 39);
+}
+.eighty-five {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(167, 119, 42);
+}
+.ninety {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(187, 153, 50);
+}
+.ninety-five {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(158, 105, 36);
+}
+.hundred {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(163, 66, 66);
+}
+.hundred-five {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(123, 41, 41);
+}
+.hundred-ten {
+  width: 100%;
+  height: 1.7rem;
+  background-color: rgb(94, 40, 40);
+}
